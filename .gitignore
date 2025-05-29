@@ -1,0 +1,11 @@
+# Ignore environment and sensitive files
+.env
+
+# Ignore local DB
+db/upi.sqlite
+
+# Ignore dependency folders
+node_modules/
+
+# Editor-specific files
+.vscode/

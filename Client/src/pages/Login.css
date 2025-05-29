@@ -1,0 +1,74 @@
+.page-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to right, #f0f2f5, #e0f7fa);
+  }
+  
+  .login-container {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .login-container h2 {
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+    color: #333;
+  }
+  
+  .login-container input {
+    width: 100%;
+    padding: 0.75rem;
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: 0.3s;
+  }
+  
+  .login-container input:focus {
+    border-color: #646cff;
+    box-shadow: 0 0 0 2px #646cff33;
+  }
+  
+  .login-container button {
+    width: 100%;
+    padding: 0.75rem;
+    margin-top: 1rem;
+    background-color: #646cff;
+    color: #fff;
+    border: none;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .login-container button:hover {
+    background-color: #535bf2;
+  }
+  
+  .alt-link {
+    margin-top: 1rem;
+    font-size: 0.95rem;
+  }
+  
+  .alt-link a {
+    color: #646cff;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .alt-link a:hover {
+    text-decoration: underline;
+  }
+  
