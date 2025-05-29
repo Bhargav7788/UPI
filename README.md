@@ -28,12 +28,6 @@ SimUPI is a full-stack UPI money transfer simulation system that mimics the core
 
 ---
 
-## 📷 Demo Screenshots
-
-> (Insert screenshots of your dashboard, signup, login, and UPI lookup here.)
-
----
-
 ## 🔄 Getting Started
 
 ### 1. Clone the repo
